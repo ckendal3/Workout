@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Exercise">Exercise</string>
+    <string name="addToWorkout">addToWorkout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weight">Weight: </string>
+    <string name="reps">Reps: </string>
+</resources>
